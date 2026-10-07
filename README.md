@@ -10,7 +10,7 @@ A soft snowy glassmorphism theme for ChatGPT.
 
 1. Install the Stylus extension.
 2. Open the desktop beta file:
-   https://raw.githubusercontent.com/ting-png1/personal-life-os/snow-glass-beta/snow-glass-chatgpt/snow-glass.user.css
+   https://raw.githubusercontent.com/ting-png1/snow-glass-chatgpt/main/snow-glass.user.css
 3. Copy the full file into a new Stylus style.
 4. Save and refresh https://chatgpt.com/
 
@@ -18,11 +18,11 @@ A soft snowy glassmorphism theme for ChatGPT.
 
 Safari does not use Stylus. The beta includes a userscript that injects the same theme CSS.
 
-1. Install the open-source **Userscripts** Safari extension.
+1. Install the open-source **Userscripts** Safari extension:
    https://github.com/quoid/userscripts
-2. Enable the Userscripts Safari extension and allow it on ChatGPT.
+2. Enable its Safari extension and allow it on ChatGPT.
 3. Open this raw userscript URL in Safari:
-   https://raw.githubusercontent.com/ting-png1/personal-life-os/snow-glass-beta/snow-glass-chatgpt/snow-glass-safari.user.js
+   https://raw.githubusercontent.com/ting-png1/snow-glass-chatgpt/main/snow-glass-safari.user.js
 4. Install it from the Userscripts extension menu.
 5. Refresh https://chatgpt.com/
 
